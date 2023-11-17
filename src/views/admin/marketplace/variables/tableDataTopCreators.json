@@ -1,0 +1,37 @@
+[
+  {
+    "flight": ["Flight-123"],
+    "arrival" : "03:00 PM  ",
+    "departure":97
+  },
+  {
+    "flight": ["Flight-234"],
+    "arrival" : "04:45 PM  ",
+    "departure":87
+  },
+  {
+    "flight": ["Flight-456"],
+    "arrival" : "04:45 PM  ",
+    "departure":82
+  },
+  {
+    "flight": ["Flight-356"],
+    "arrival" : "04:45 PM  ",
+    "departure":68
+  },
+  {
+    "flight": ["Flight-678"],
+    "arrival" : "02:30 PM",
+    "departure":55
+  },
+  {
+    "flight": ["Flight-365"],
+    "arrival" : "05:15 PM ",
+    "departure":46
+  },
+  {
+    "flight": ["Flight-334"],
+    "arrival" : "03:00 PM ",
+    "departure":38
+  }
+]

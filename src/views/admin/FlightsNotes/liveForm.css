@@ -1,0 +1,42 @@
+.ant-switch {
+    &.ant-switch-checked {
+      background-color: #A21D20;    
+      color: #A21D20;
+    }
+  
+    &.ant-switch-handle {
+      background-color: #a82700;
+      color: #A21D20;
+    }
+    &.ant-switch-unchecked {
+        background-color: #A21D20;
+        color: #A21D20;
+    }
+    &.ant-switch-checked:hover{
+        background-color: #A21D20;
+        
+    }
+    &:hover {
+      background-color: #a82700;
+   
+    }
+  }
+
+  :where(.css-dev-only-do-not-override-xu9wm8).ant-switch.ant-switch-checked {
+    background:#a82700 !important;
+  }
+
+  input#componentdate ,input#component-simple1 {
+    width: 100% !important;
+}
+
+/* 
+  .custom-button{
+    background-color: #A21D20;
+  } */
+ .css-1kxonj9{
+  margin-Bottom:10px;
+}
+.react-datepicker-wrapper{
+  width:100% !important;
+}

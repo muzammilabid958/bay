@@ -1,0 +1,32 @@
+[{
+  "name":[" FL123  ",false],
+  "quantity": [" 08:00AM  "], 
+  "date": ["On Time"],
+  "progress": ["08:00 AM"]
+},
+{
+  "name":["FL456 ",true],
+  "quantity": [" 01:15PM "], 
+  "date": ["Delayed"],
+  "progress":["01:30 PM  "]
+},
+{
+  "name":[" FL789   ",true],
+  "quantity":[" 01:30PM  "] , 
+  "date": ["Boarding"],
+  "progress": ["08:00 AM"]
+},
+{
+  "name":[" FL234  ",true],
+  "quantity": [" 04:15PM   "], 
+  "date":[ "In Transit"],
+  "progress":["04:15 PM "]
+},
+{
+  "name":["FL567 ",false],
+  "quantity": [" 04:15PM   "], 
+  "date":[ "Landed"],
+  "progress": [" 07:00 PM "]
+}
+]
+
